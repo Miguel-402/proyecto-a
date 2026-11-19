@@ -13,3 +13,8 @@ text normal
 *esto es otro ejemplo de testo en cursiva*
 ~otra currisiva~
 #**_negrilla una vaina loca_**
+
+
+*verde 
+*rojo
+*azul
